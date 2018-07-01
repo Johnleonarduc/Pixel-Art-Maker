@@ -1,5 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     text-align: center;
+    background-color: #eef9fd;
 }
 
 
@@ -49,4 +54,18 @@ input[type=number] {
 /* Classes */
 .clear-grid {
     margin-bottom: 10px;
+}
+
+.art-heading{
+    color: #02b3e4;
+    background-color: #fff;
+    box-shadow: 5px 5px 5px 0 rgba(153,153,153,0.5);
+}
+
+.art-body{
+    text-decoration-color:#02b3e4;
+}
+
+#pixelCanvas{
+    background-color: #fff;
 }

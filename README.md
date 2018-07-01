@@ -3,7 +3,7 @@ Final Project Work For Google Africa Challenge Scholarship: Front-End @Udacity
 
 Link to the Pixel Art Maker Project hosted on GitHub: https://johnleonarduc.github.io/Pixel-Art-Maker/
 
-Instructions
+## Instructions
 
 1) Set the drawing canvas size by choosing your desired Grid Height and Width.
 2) Click on submit for the drawing canvas of pixel blocks to appear.
